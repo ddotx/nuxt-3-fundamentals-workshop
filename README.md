@@ -18,3 +18,10 @@ cd nuxt-3-fundamentals-workshop
 ```
 
 In the course, Ben uses [nuxi](https://v3.nuxtjs.org/getting-started/installation/) to scaffold out an empty Nuxt application and then walks through how to install the depenencies.
+
+# STEP
+```bash
+npx nuxi init app
+
+npm run dev
+```
